@@ -1,0 +1,9 @@
+streamlit>=1.40
+pydantic>=2.6
+reportlab>=4.0
+pandas>=2.0
+litellm>=1.40
+python-dotenv>=1.0
+requests>=2.31
+# Optional, only for the private-sheet (service account) option:
+gspread>=6.0
